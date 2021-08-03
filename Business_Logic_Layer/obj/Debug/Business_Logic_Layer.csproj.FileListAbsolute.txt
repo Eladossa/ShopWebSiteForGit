@@ -1,0 +1,9 @@
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.dll
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.pdb
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb

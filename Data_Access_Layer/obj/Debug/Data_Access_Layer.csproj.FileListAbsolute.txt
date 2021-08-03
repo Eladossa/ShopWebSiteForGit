@@ -1,0 +1,6 @@
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\Elad Hatan\Desktop\ShopWebSite1\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
