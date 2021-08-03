@@ -22,12 +22,12 @@ namespace Business_Logic_Layer
             return new JavaScriptSerializer().Serialize(addProduct);
         }
 
-        public static string ProductList2()
+       // public static string ProductList2()
 
-        {
-            DataTable productsTable = DAL.GetProducts();
-            return DataTableToJson(productsTable);
-        }
+       //{
+           // DataTable productsTable = DAL.GetProducts();
+           // return DataTableToJson(productsTable);
+        //}
 
         public static string ProductList()
 
